@@ -1,0 +1,10 @@
+
+=== CUSTOMER BILL ===
+Rice x6 = 300
+---------------------
+Subtotal: 300
+GST (5%): 15.00
+Grand Total: 315.00
+---------------------
+Thank you for shopping with us!
+Bill saved to bill.txt
